@@ -32,9 +32,16 @@ Type npm start (production)
 Here you test multiple method such post, get, put, delete
 and you will get the ouput in json format 
 
+# Post Method
 ![Screenshot from 2024-10-15 17-09-35](https://github.com/user-attachments/assets/77b08ce5-9ba5-42f9-a115-f7cdcecd6f55)
 
-![Screenshot from 2024-10-15 17-09-58](https://github.com/user-attachments/assets/6fc4bddd-9386-4b25-b746-8e824956a35c)
+# Get Method
+![get](https://github.com/user-attachments/assets/d0beab48-8bb5-438d-9e1d-965c6d3aef3c)
+
+# Delete Method
+![Screenshot from 2024-10-15 17-09-58](https://github.com/user-attachments/assets/6fc4bddd-9386-4b25-b746-8e824956a35c)ata
+
+# Store Data In Database (MongoDB)
 ![Screenshot from 2024-10-15 17-10-42](https://github.com/user-attachments/assets/60516962-2875-4a48-bbd5-c58ecaa1d7a7)
 
 
